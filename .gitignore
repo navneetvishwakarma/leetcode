@@ -1,0 +1,63 @@
+# Maven
+/target/
+
+# Maven build output and generated sources
+/generated-sources/
+/generated-test-sources/
+/maven-status/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+out/
+
+# VS Code
+.vscode/
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# NetBeans
+nbproject/
+
+# Mac
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Logs
+*.log
+
+# Java
+*.class
+*.jar
+*.war
+*.ear
+
+# OS generated files
+*.swp
+*~
+
+# Maven wrapper (typically committed) - uncomment if you don't commit the wrapper
+# mvnw
+# mvnw.cmd
+# .mvn/
+
+# Surefire plugin reports (optional - can be useful to keep locally, but often ignored)
+/surefire-reports/
+
+# Target test classes
+/test-classes/
+
+# Target classes
+/classes/
+
+# IDE/workspace files
+.idea/
+.project
+.classpath
